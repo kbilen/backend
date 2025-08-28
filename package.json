@@ -1,5 +1,6 @@
 {
-	"name": "Kerim BILEN",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Kerim BILEN",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
